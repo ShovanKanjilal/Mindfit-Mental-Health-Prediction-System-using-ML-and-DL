@@ -32,5 +32,9 @@ data/assessment_history/
 # Viva notes (personal)
 viva_notes/
 
+# Reports & survey (personal)
+PROJECT_REPORT.md
+literature_survey.png
+
 # Byte-compiled
 *.pyc
