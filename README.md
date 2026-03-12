@@ -55,8 +55,8 @@ My_project/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/MindFit.git
-   cd MindFit
+   git clone https://github.com/ShovanKanjilal/Mindfit-Mental-Health-Prediction-System-using-ML-and-DL.git
+   cd Mindfit-Mental-Health-Prediction-System-using-ML-and-DL
    ```
 
 2. **Install dependencies**
