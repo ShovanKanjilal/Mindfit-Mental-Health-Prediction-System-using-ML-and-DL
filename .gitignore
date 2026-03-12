@@ -29,5 +29,8 @@ Thumbs.db
 # Assessment history data
 data/assessment_history/
 
+# Viva notes (personal)
+viva_notes/
+
 # Byte-compiled
 *.pyc
